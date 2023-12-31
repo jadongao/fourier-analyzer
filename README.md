@@ -1,14 +1,14 @@
-# Lego Fourier Analyzer
-lego machine that presentation Fourier analysis 
+# LEGO Fourier Analyzer
+LEGO machine that presentation Fourier analysis 
 
 # 1.What kinds of things do you make?
 
-I made a Lego machine that presentation Fourier Transformation in a high visual way. This lego machine replicates a harmonic analyzer designed in the late nineenth century by the physician Albert Michelson.
+I made a LEGO machine that presentation Fourier Transformation in a high visual way. This machine replicates a harmonic analyzer designed in the late nineenth century by the physicist Albert Michelson.
 It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
 
 # 2.How would you characterize / categorize what you make?
 
-Lego machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
+LEGO machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
 
 # 3.Briefly describe your portfolio of work
 
@@ -27,12 +27,12 @@ where an is -1,+1, -1,+1, -1
 
 F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
-Using this Lego harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
+Using this LEGO harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
 <div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%/> </div>
 
 ## Parts of analyzer
-This lego machine consists of the following parts:
+This LEGO machine consists of the following parts:
 
 <!--![parts of Analyzer](./overview%20with%20label.jpg)  -->
 <div align=center> <img src='./overview%20with%20label.jpg' width = 80%/> </div>
@@ -53,10 +53,9 @@ The platen moves horizontally and plumb moves vertically. and the pen tied to pl
 
 # 4.How do you make?
 
-Starting from March 2022, I built a Lego Machine using LEGO, which can be used for Fourier transformation
-The entire process took quite a long time and spent a lot of time trying to complete each component
+Since March 2022, I have been exposed to the harmonic analyzer manufactured by physicist Albert Michelson for studying calculus and Fourier transform, and I am deeply attracted by its clever design. So I wanted to make one myself at home. The entire process took a considerable amount of time and effort to complete each component.
 
-Sinusoid generator and Frequency generator are two key factors
+Sinusoid generator and Frequency generator are two key parts.
 
 ### The Frequency generator
 The Frequency generator is a gearbox, and I am amazed by the clever design of Youtuber @ thoroughfareproduction. But because YouTuber only provided videos without detailed installation drawings, I couldn't see his internal design and had to explore it myself. I first completed a 5-axis gearbox like YouTube, and after completing it, my confidence doubled. I challenged and completed a 7-axis gearbox.
@@ -64,11 +63,11 @@ The Frequency generator is a gearbox, and I am amazed by the clever design of Yo
 <!--![gear set](./frequency%20generator%20gear%20set.jpg) -->
 <div align=center> <img src='./frequency%20generator%20gear%20set.jpg' width = 70%/> </div>
 
-Using almost all types of gears: 8 tooth, 12, 16, 20, 24, 28, 36, and also using chain transmission. Since I don't have such a complete range of gear types at home, I also used a 3D printer to temporarily print several types. Later, the 3D printed parts were replaced with purchased LEGO parts, which made the operation more stable. This method of testing before formal procurement greatly improves production efficiency, eliminating the need to wait for several days to receive LEGO parts before testing.
+This machine using almost all types of LEGO gears: 8 tooth, 12, 16, 20, 24, 28, 36, and also using chain transmission. Since I don't have all of gear types at home, I also used a 3D printer to temporarily print several types. Later, the 3D printed parts were replaced with purchased LEGO parts, which made the operation more stable. This method of testing before formal procurement greatly improves production efficiency, eliminating the need to wait for several days to receive LEGO parts before testing.
 
 ### The Sinusoid generator
-The Sinusoid generator uses Lego worm gear to transmit circumferential rotation, but during the manufacturing process, there was a problem. Due to the loose gears and the fixed position of the worm, the worm would get stuck during operation, and the entire device could not operate at that time. I was forced to let go of this until a few months later when I had time to conduct a large number of repeated experiments and finally found a solution. The final method found is very simple, which is to make the worm position loose to avoid jamming. But in order to find this method, a large number of repeated disassembly and assembly were carried out.
-The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic Lego work.
+The Sinusoid generator uses LEGO worm gear to transmit circumferential rotation, but during the manufacturing process, there was a problem. Due to the loose gears and the fixed position of the worm, the worm would get stuck during operation, and the entire device could not operate at that time. I was forced to let go of this until a few months later when I had time to conduct a large number of repeated experiments and finally found a solution. The final method found is very simple, which is to make the worm position loose to avoid jamming. But in order to find this method, a large number of repeated disassembly and assembly were carried out.
+The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic LEGO work.
 
 <!--![gear-rod and bearing](./gear-rod%20and%20bearing%20with%20label.jpg)-->
 <div align=center> <img src='./gear-rod%20and%20bearing%20with%20label.jpg' width = 50%/> </div>
@@ -78,8 +77,8 @@ The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtu
 
 # 5.Why do you make?
 
-When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Transformation, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Transformation, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Transformation. So I decided to learn from them and make a Lego machine myself.
-When making this Lego machine, I also traced the history of Fourier Transformation. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
+When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Transformation, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Transformation, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Transformation. So I decided to learn from them and make a LEGO machine myself.
+When making this machine, I also traced the history of Fourier Transformation. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
 
 
 <table border="0">
@@ -118,7 +117,7 @@ When making this Lego machine, I also traced the history of Fourier Transformati
 
 # 6.What's the most meaningful thing you've made?
 
-This Lego machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
+This LEGO machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
 
 <!--![sinusoid generator](./math%20to%20machine.jpg)-->
 <div align=center> <img src='./math%20to%20machine.jpg' width = 60%/> </div>
