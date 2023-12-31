@@ -59,11 +59,17 @@ Sinusoid generator and Frequency generator are two key factors
 ### The Frequency generator
 The Frequency generator is a gearbox, and I am amazed by the clever design of Youtuber @ thoroughfareproduction. But because YouTuber only provided videos without detailed installation drawings, I couldn't see his internal design and had to explore it myself. I first completed a 5-axis gearbox like YouTube, and after completing it, my confidence doubled. I challenged and completed a 7-axis gearbox.
 
+![gear set](https://github.com/jadongao/legoanalyzer/blob/5e497966b55176f27d64102ed5ba81917ddf225d/frequency%20generator%20gear%20set.jpg)
+
 Using almost all types of gears: 8 tooth, 12, 16, 20, 24, 28, 36, and also using chain transmission. Since I don't have such a complete range of gear types at home, I also used a 3D printer to temporarily print several types. Later, the 3D printed parts were replaced with purchased LEGO parts, which made the operation more stable. This method of testing before formal procurement greatly improves production efficiency, eliminating the need to wait for several days to receive LEGO parts before testing.
 
 ### The Sinusoid generator
 The Sinusoid generator uses Lego worm gear to transmit circumferential rotation, but during the manufacturing process, there was a problem. Due to the loose gears and the fixed position of the worm, the worm would get stuck during operation, and the entire device could not operate at that time. I was forced to let go of this until a few months later when I had time to conduct a large number of repeated experiments and finally found a solution. The final method found is very simple, which is to make the worm position loose to avoid jamming. But in order to find this method, a large number of repeated disassembly and assembly were carried out.
 The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic Lego work.
+
+![gear-rod and bearing](https://github.com/jadongao/legoanalyzer/blob/main/gear-rod%20and%20bearing%20with%20label.jpg)
+
+![sinusoid generator](https://github.com/jadongao/legoanalyzer/blob/main/sinusoid%20generator%20gear-rod.jpg)
 
 # 5.Why do you make?
 
