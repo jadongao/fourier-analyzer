@@ -1,6 +1,8 @@
 # LEGO Fourier Analyzer
 LEGO machine that presentation Fourier analysis 
 
+<div align=center> <img src='./overview.jpg' width = 40%/> </div>
+
 # 1.What kinds of things do you make?
 
 I made a LEGO machine that presentation Fourier Transformation in a high visual way. This machine replicates a harmonic analyzer designed in the late nineenth century by the physicist Albert Michelson.
