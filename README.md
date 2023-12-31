@@ -15,14 +15,22 @@ Lego machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
 A harmonic analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
 This type of machine is an analog computer that directly processes function graph without the digital computer which is almost considered essential by people today. It does not require electricity and can be operated by hand.
 The capability of harmonic analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
+
+## Example of fourier analysis
+
 Taking Fourier synthesis (5 sinusoids elelemnt) as an example,
-!
+
+![sinusoid function graph of computer](https://github.com/jadongao/legoanalyzer/blob/main/computer%20function%20graph.jpg)
+
 where an is -1,+1, -1,+1, -1
-F (x)=- sin (x)+sin (2x) - sin (3x)+sin (4x) - sin (5x)
+
+F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
+
 Using this Lego harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
+![sinusoid function graph of computer](https://github.com/jadongao/legoanalyzer/blob/main/analyzer%20function%20graph.jpg)
 
-## Parts of Analyzer
+## Parts of analyzer
 This lego machine consists of the following parts:
 
 ![parts of Analyzer](https://github.com/jadongao/legoanalyzer/blob/main/overview%20with%20label.jpg)
