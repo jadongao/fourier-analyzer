@@ -120,7 +120,7 @@ When making this machine, I also traced the history of Fourier Transformation. I
 This LEGO machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
 
 <!--![sinusoid generator](./math%20to%20machine.jpg)-->
-<div align=center> <img src='./math%20to%20machine.jpg' width = 60%/> </div>
+<div align=center> <img src='./math%20to%20machine.jpg' width = 65%/> </div>
 
 
 The production process of this machine was a perfect visual learning. It's very consistent with my experience as a tutor in a schoolhouse. The visual teaching method enables students to see and touch the abstract concepts they have learned, bringing students (including myself) closer to the abstract concepts.
