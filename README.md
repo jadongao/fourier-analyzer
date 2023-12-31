@@ -1,5 +1,5 @@
-# legoanalyzer
-lego harmonic analyzer
+# Lego Fourier Analyzer
+lego machine that presentation Fourier analysis 
 
 # 1.What kinds of things do you make?
 
@@ -20,7 +20,8 @@ The capability of harmonic analyzer depends on the number of elements. I tried t
 
 Taking Fourier synthesis (5 sinusoids elelemnt) as an example,
 
-![sinusoid function graph of computer](./computer%20function%20graph.jpg)
+<!--![sinusoid function graph of computer](./computer%20function%20graph.jpg) -->
+<div align=center> <img src='./computer%20function%20graph.jpg'> </div>
 
 where an is -1,+1, -1,+1, -1
 
@@ -28,12 +29,13 @@ F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
 Using this Lego harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
-![sinusoid function graph of computer](./analyzer%20function%20graph.jpg)
+<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 60%/> </div>
 
 ## Parts of analyzer
 This lego machine consists of the following parts:
 
-![parts of Analyzer](./overview%20with%20label.jpg)
+<!--![parts of Analyzer](./overview%20with%20label.jpg)  -->
+<div align=center> <img src='./overview%20with%20label.jpg' width = 80%/> </div>
 
 ### 3.1 Frequency generator
 Frequency generator is a gearbox with 7 output shafts of different frequencies. The rotational speeds on the 7 axes are 1x, 2x, 3x, 4x, 5x, 6x, and 7x, respectively.
@@ -59,7 +61,8 @@ Sinusoid generator and Frequency generator are two key factors
 ### The Frequency generator
 The Frequency generator is a gearbox, and I am amazed by the clever design of Youtuber @ thoroughfareproduction. But because YouTuber only provided videos without detailed installation drawings, I couldn't see his internal design and had to explore it myself. I first completed a 5-axis gearbox like YouTube, and after completing it, my confidence doubled. I challenged and completed a 7-axis gearbox.
 
-![gear set](./frequency%20generator%20gear%20set.jpg)
+<!--![gear set](./frequency%20generator%20gear%20set.jpg) -->
+<div align=center> <img src='./frequency%20generator%20gear%20set.jpg' width = 70%/> </div>
 
 Using almost all types of gears: 8 tooth, 12, 16, 20, 24, 28, 36, and also using chain transmission. Since I don't have such a complete range of gear types at home, I also used a 3D printer to temporarily print several types. Later, the 3D printed parts were replaced with purchased LEGO parts, which made the operation more stable. This method of testing before formal procurement greatly improves production efficiency, eliminating the need to wait for several days to receive LEGO parts before testing.
 
@@ -67,9 +70,11 @@ Using almost all types of gears: 8 tooth, 12, 16, 20, 24, 28, 36, and also using
 The Sinusoid generator uses Lego worm gear to transmit circumferential rotation, but during the manufacturing process, there was a problem. Due to the loose gears and the fixed position of the worm, the worm would get stuck during operation, and the entire device could not operate at that time. I was forced to let go of this until a few months later when I had time to conduct a large number of repeated experiments and finally found a solution. The final method found is very simple, which is to make the worm position loose to avoid jamming. But in order to find this method, a large number of repeated disassembly and assembly were carried out.
 The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic Lego work.
 
-![gear-rod and bearing](./gear-rod%20and%20bearing%20with%20label.jpg)
+<!--![gear-rod and bearing](./gear-rod%20and%20bearing%20with%20label.jpg)-->
+<div align=center> <img src='./gear-rod%20and%20bearing%20with%20label.jpg' width = 60%/> </div>
 
-![sinusoid generator](./sinusoid%20generator%20gear-rod.jpg)
+<!--![sinusoid generator](./sinusoid%20generator%20gear-rod.jpg) -->
+<div align=center> <img src='./sinusoid%20generator%20gear-rod.jpg' width = 60%/> </div>
 
 # 5.Why do you make?
 
@@ -115,7 +120,8 @@ When making this Lego machine, I also traced the history of Fourier Transformati
 
 This Lego machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
 
-![sinusoid generator](./math%20to%20machine.jpg)
+<!--![sinusoid generator](./math%20to%20machine.jpg)-->
+<div align=center> <img src='./math%20to%20machine.jpg' width = 60%/> </div>
 
 
 The production process of this machine was a perfect visual learning. It's very consistent with my experience as a tutor in a schoolhouse. The visual teaching method enables students to see and touch the abstract concepts they have learned, bringing students (including myself) closer to the abstract concepts.
