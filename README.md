@@ -1,5 +1,5 @@
 # LEGO Fourier Analyzer
-LEGO machine that presentation Fourier analysis 
+A LEGO machine that presentation Fourier analysis 
 
 <div align=center> <img src='./overview.jpg' width = 40%/> </div>
 
