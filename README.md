@@ -12,9 +12,9 @@ Lego machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
 
 # 3.Briefly describe your portfolio of work
 
-A harmonic analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
+A fourier analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
 This type of machine is an analog computer that directly processes function graph without the digital computer which is almost considered essential by people today. It does not require electricity and can be operated by hand.
-The capability of harmonic analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
+The capability of fourier analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
 
 ## Example of fourier analysis
 
