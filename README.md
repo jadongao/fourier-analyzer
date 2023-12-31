@@ -21,7 +21,12 @@ where an is -1,+1, -1,+1, -1
 F (x)=- sin (x)+sin (2x) - sin (3x)+sin (4x) - sin (5x)
 Using this Lego harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
+
+## Parts of Analyzer
 This lego machine consists of the following parts:
+
+![parts of Analyzer](https://github.com/jadongao/legoanalyzer/blob/main/overview%20with%20label.jpg)
+
 ### 3.1 Frequency generator
 Frequency generator is a gearbox with 7 output shafts of different frequencies. The rotational speeds on the 7 axes are 1x, 2x, 3x, 4x, 5x, 6x, and 7x, respectively.
 ### 3.2 Sinusoid generator
