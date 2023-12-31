@@ -29,7 +29,7 @@ F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
 Using this Lego harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
-<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 60%/> </div>
+<div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%/> </div>
 
 ## Parts of analyzer
 This lego machine consists of the following parts:
@@ -71,10 +71,10 @@ The Sinusoid generator uses Lego worm gear to transmit circumferential rotation,
 The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic Lego work.
 
 <!--![gear-rod and bearing](./gear-rod%20and%20bearing%20with%20label.jpg)-->
-<div align=center> <img src='./gear-rod%20and%20bearing%20with%20label.jpg' width = 60%/> </div>
+<div align=center> <img src='./gear-rod%20and%20bearing%20with%20label.jpg' width = 50%/> </div>
 
 <!--![sinusoid generator](./sinusoid%20generator%20gear-rod.jpg) -->
-<div align=center> <img src='./sinusoid%20generator%20gear-rod.jpg' width = 60%/> </div>
+<div align=center> <img src='./sinusoid%20generator%20gear-rod.jpg' width = 50%/> </div>
 
 # 5.Why do you make?
 
