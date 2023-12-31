@@ -3,16 +3,16 @@ A LEGO machine that presentation Fourier analysis
 
 <div align=center> <img src='./overview.jpg' width = 40%/> </div>
 
-# 1.What kinds of things do you make?
+# 1.What kinds of things is this work?
 
 I made a LEGO machine that presentation Fourier Transformation in a high visual way. This machine replicates a harmonic analyzer designed in the late nineenth century by the physicist Albert Michelson.
 It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
 
-# 2.How would you characterize / categorize what you make?
+# 2.How to characterize / categorize this work?
 
 LEGO machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
 
-# 3.Briefly describe your portfolio of work
+# 3.Briefly description of this work
 
 A fourier analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
 This type of machine is an analog computer that directly processes function graph without the digital computer which is almost considered essential by people today. It does not require electricity and can be operated by hand.
@@ -53,7 +53,7 @@ The Fourier Synthesis operation is completed by adding up all the weighted sinoi
 ### 3.5 Platen and Plumb
 The platen moves horizontally and plumb moves vertically. and the pen tied to plumb draws a function graph of the calculation result on the recording paper.
 
-# 4.How do you make?
+# 4.How do I make it?
 
 Since March 2022, I have been exposed to the harmonic analyzer manufactured by physicist Albert Michelson for studying calculus and Fourier transform, and I am deeply attracted by its clever design. So I wanted to make one myself at home. The entire process took a considerable amount of time and effort to complete each component.
 
@@ -77,7 +77,7 @@ The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtu
 <!--![sinusoid generator](./sinusoid%20generator%20gear-rod.jpg) -->
 <div align=center> <img src='./sinusoid%20generator%20gear-rod.jpg' width = 50%/> </div>
 
-# 5.Why do you make?
+# 5.Why do I make it?
 
 When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Transformation, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Transformation, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Transformation. So I decided to learn from them and make a LEGO machine myself.
 When making this machine, I also traced the history of Fourier Transformation. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
