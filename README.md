@@ -77,10 +77,46 @@ When learning sound waves, I came across the idea that chords are composed of di
 When making this Lego machine, I also traced the history of Fourier Transformation. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
 
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Time</b></td>
+    <td><b style="font-size:30px">Name</b></td>
+    <td><b style="font-size:30px">Invention</b></td>
+ </tr>
+ <tr>
+    <td>1807</td>
+    <td>French mathematician and physicist Fourier </td>
+    <td>He published a paper that using sine curves to describe temperature distribution：periodic functions can be represented by a series of cosines and sines.</td>
+ </tr>
+<tr>
+    <td>1879</td>
+    <td>Sir William Thomson (Lord Kelvin)</td>
+    <td>He designed a 15 constituent sinusoids tide-predicting machine (TPM). </td>
+</tr>
+<tr>
+    <td>1898</td>
+    <td>Physicist Albert Michelson (Nobel Prizer) </td>
+    <td>He designed this harmonic analyzer that calculates with 20 sinusoids. </td>
+</tr>
+<tr>
+    <td>November 12, 2014</td>
+    <td>Professor Bill Hammack </td>
+    <td>He uses videos and PDF books to introduce Albert Michelson's Harmonic Analyzer. </td>
+</tr>
+<tr>
+    <td>August 19, 2021</td>
+    <td>Youtuber @thoroughfareproduction </td>
+    <td>They desinged a wondrous LEGO contraption of gears, springs, levers and wheels to perform Fourier analysis. </td>
+</tr>
+</table>
+
 
 # 6.What's the most meaningful thing you've made?
 
-It is worth mentioning that I strongly agree with visual learning through visualization. During my time as a tutor in a school, I realized that visualization teaching methods allow students to see and touch the abstract concepts they have learned, bringing them (including myself) closer to abstract concepts.
 This Lego machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
+
+
+The production process of this machine was a perfect visual learning. It's very consistent with my experience as a tutor in a schoolhouse. The visual teaching method enables students to see and touch the abstract concepts they have learned, bringing students (including myself) closer to the abstract concepts.
+
 
 
