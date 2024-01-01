@@ -5,7 +5,7 @@ A LEGO machine that presentation Fourier Analysis
 
 # 1.What kinds of things is this work?
 
-I made a LEGO machine that presentation Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineenth century by the physicist Albert Michelson.
+I made a LEGO machine that presentation Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineteenth century by the physicist Albert Michelson.
 It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
 
 # 2.How to characterize / categorize this work?
@@ -14,11 +14,11 @@ LEGO machine, Fourier Analysis, Sinusoid, 3D models, Visual Learning
 
 # 3.Briefly description of this work
 
-A fourier analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
+A Fourier analyzer can carry out two related tasks: it can add together weighted sines or cosines to produce a function graph, and it can perform the inverse operation of decomposing a given function graph into its constituent sinusoids. The addition of sinusoids is called Fourier synthesis and the inverse operation is called Fourier Analysis.
 This type of machine is an analog computer that directly processes function graph without the digital computer which is almost considered essential by people today. It does not require electricity and can be operated by hand.
-The capability of fourier analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
+The capability of Fourier analyzer depends on the number of elements. I tried to increase the number of elements to 7, while Albert Michelson's copper analyzer once achieved 80 elements.
 
-## Example of fourier analysis
+## Example of Fourier analysis
 
 Taking Fourier synthesis (5 sinusoids elelemnt) as an example,
 
