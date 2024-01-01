@@ -1,6 +1,8 @@
 # LEGO Fourier Analyzer
 A LEGO machine that presentation Fourier Analysis 
 
+GitHub Link: (https://github.com/jadongao/fourier-analyzer)
+
 <div align=center> <img src='./overview.jpg' width = 40%/> </div>
 
 # 1.What kinds of things is this work?
