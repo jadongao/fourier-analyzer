@@ -60,7 +60,7 @@ Since March 2022, I have been exposed to the Harmonic Analyzer manufactured by p
 Sinusoid generator and Frequency generator are two key parts.
 
 ### The Frequency generator
-The Frequency generator is a gearbox, and I am amazed by the clever design of Youtuber @ thoroughfareproduction. But because YouTuber only provided videos without detailed installation drawings, I couldn't see his internal design and had to explore it myself. I first completed a 5-axis gearbox like YouTube, and after completing it, my confidence doubled. I challenged and completed a 7-axis gearbox.
+The Frequency generator is a gearbox, and I am amazed by the clever design of Youtuber @thoroughfareproduction. But because this YouTuber only provided videos without detailed installation drawings, I couldn't see his internal design and had to explore it myself. I first completed a 5-axis gearbox like YouTuber's machine, and after completing it, my confidence doubled. I challenged and completed a 7-axis gearbox.
 
 <!--![gear set](./frequency%20generator%20gear%20set.jpg) -->
 <div align=center> <img src='./frequency%20generator%20gear%20set.jpg' width = 70%/> </div>
@@ -69,7 +69,7 @@ This machine using almost all types of LEGO gears: 8, 12, 16, 20, 24, 28, and 36
 
 ### The Sinusoid generator
 The Sinusoid generator uses LEGO worm gear to transmit circumferential rotation, but during the manufacturing process, there was a problem. Due to the loose gears and the fixed position of the worm, the worm would get stuck during operation, and the entire device could not operate at that time. I was forced to let go of this until a few months later when I had time to conduct a large number of repeated experiments and finally found a solution. The final method found is very simple, which is to make the worm position loose to avoid jamming. But in order to find this method, a large number of repeated disassembly and assembly were carried out.
-The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtubr @ thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic LEGO work.
+The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtuber @thoroughfareproduction used a very simple bolt connection, but due to the need for rotation, a smooth bolt connection was used, which caused the gears and beam to shake easily. I believe this will cause significant errors, so I made improvements. Here, a 3D print model and bearings are used, and it is no longer a classic LEGO work.
 
 <!--![gear-rod and bearing](./gear-rod%20and%20bearing%20with%20label.jpg)-->
 <div align=center> <img src='./gear-rod%20and%20bearing%20with%20label.jpg' width = 50%/> </div>
@@ -79,7 +79,7 @@ The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtu
 
 # 5.Why do I make it?
 
-When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Analysis, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Analysis, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Analysis. So I decided to learn from them and make a LEGO machine myself.
+When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Analysis, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Analysis, and I saw videos online from Professor Bill Hammack and YouTuber @thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Analysis. So I decided to learn from them and make a LEGO machine myself.
 When making this machine, I also traced the history of Fourier Analysis. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
 
 
