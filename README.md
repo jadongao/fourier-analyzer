@@ -1,16 +1,16 @@
 # LEGO Fourier Analyzer
-A LEGO machine that presentation Fourier analysis 
+A LEGO machine that presentation Fourier Analysis 
 
 <div align=center> <img src='./overview.jpg' width = 40%/> </div>
 
 # 1.What kinds of things is this work?
 
-I made a LEGO machine that presentation Fourier Transformation in a high visual way. This machine replicates a harmonic analyzer designed in the late nineenth century by the physicist Albert Michelson.
+I made a LEGO machine that presentation Fourier Analysis in a high visual way. This machine replicates a Harmonic Analyzer designed in the late nineenth century by the physicist Albert Michelson.
 It must be noted that I referred to the video of YouTuber @thoroughfareproduction who created a 5-element analyzer. I redesigned the gearbox to increase the number of elements to 7, and made my own improvements in the design of sinusoid generator gear set to make the operation smoother.
 
 # 2.How to characterize / categorize this work?
 
-LEGO machine, Fourier Transformation, Sinusoid, 3D models, Visual Learning
+LEGO machine, Fourier Analysis, Sinusoid, 3D models, Visual Learning
 
 # 3.Briefly description of this work
 
@@ -29,7 +29,7 @@ where $a_n$ is -1,+1, -1,+1, -1
 
 F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
-Using this LEGO harmonic analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
+Using this LEGO Fourier Analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
 
 <div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%/> </div>
 
@@ -55,7 +55,7 @@ The platen moves horizontally and plumb moves vertically. and the pen tied to pl
 
 # 4.How do I make it?
 
-Since March 2022, I have been exposed to the harmonic analyzer manufactured by physicist Albert Michelson for studying calculus and Fourier transform, and I am deeply attracted by its clever design. So I wanted to make one myself at home. The entire process took a considerable amount of time and effort to complete each component.
+Since March 2022, I have been exposed to the Harmonic Analyzer manufactured by physicist Albert Michelson for studying calculus and Fourier transform, and I am deeply attracted by its clever design. So I wanted to make one myself at home. The entire process took a considerable amount of time and effort to complete each component.
 
 Sinusoid generator and Frequency generator are two key parts.
 
@@ -79,8 +79,8 @@ The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtu
 
 # 5.Why do I make it?
 
-When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Transformation, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Transformation, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Transformation. So I decided to learn from them and make a LEGO machine myself.
-When making this machine, I also traced the history of Fourier Transformation. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
+When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Analysis, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Analysis, and I saw videos online from Professor Bill Hammack and YouTuber @ thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Analysis. So I decided to learn from them and make a LEGO machine myself.
+When making this machine, I also traced the history of Fourier Analysis. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
 
 
 <table border="0">
@@ -102,7 +102,7 @@ When making this machine, I also traced the history of Fourier Transformation. I
 <tr>
     <td>1898</td>
     <td>Physicist Albert Michelson (Nobel Prizer) </td>
-    <td>He designed this harmonic analyzer that calculates with 20 sinusoids. </td>
+    <td>He designed the Harmonic Analyzer that calculates with 20 sinusoids. </td>
 </tr>
 <tr>
     <td>November 12, 2014</td>
