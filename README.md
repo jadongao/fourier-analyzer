@@ -30,7 +30,7 @@ where $a_n$ is -1, +1, -1, +1, -1
 
 F (x)= -sin(x)+sin(2x)-sin(3x)+sin(4x)-sin(5x)
 
-Using this LEGO Fourier Analyzer, the actual output function graph is as follows, which is very close to the graph drawn by the computer.
+Using this LEGO Fourier Analyzer, the output function graph is as follows, which is very close to the graph drawn by the computer.
 
 <div align=center> <img src='./analyzer%20function%20graph.jpg' width = 50%/> </div>
 
@@ -49,7 +49,7 @@ The sinusoid generator has seven gears to move Rocker arms, converting the circu
 ### 3.3 Ample bars, weight the sinusoids
 There are 7 sinusoidal motions weighted: $a_1$*sin(1x), $a_2$*sin(2x), $a_3$*sin(3x), $a_4$*sin(4x), $a_5$*sin(5x), $a_6$*sin(6x), and $a_7$*sin(7x).
 ### 3.4 Summing lever
-Summing lever at the top of the machine adds together the weighted sinusoids.
+The summing lever at the top of the machine adds together the weighted sinusoids.
 
 ### 3.5 Platen and Plumb
 The platen moves horizontally, and the plumb moves vertically. The pen tied to the plumb draws a function graph of the calculation result on the recording paper.
@@ -78,7 +78,7 @@ The device that drives the LEGO beam to form sinusoidal motion is crucial. Youtu
 <!--![sinusoid generator](./sinusoid%20generator%20gear-rod.jpg) -->
 <div align=center> <img src='./sinusoid%20generator%20gear-rod.jpg' width = 50%/> </div>
 
-# 5.Why do I make it?
+# 5. Why do I make it?
 
 When learning sound waves, I came across the idea that chords are composed of different combinations of sounds, and using Fourier Analysis, chords can be decomposed into the frequencies of their constituent sounds. I am very interested in Fourier Analysis, and I saw videos online from Professor Bill Hammack and YouTuber @thoroughfareproduction, both dedicated to visualizing complex mathematical concepts in Fourier Analysis. So, I decided to learn from them and make a LEGO machine myself. When making this machine, I also traced the history of Fourier Analysis. I had a chance to communicate with these masters during this production process, and I felt their imaginative ideas in the era without electronic computers.
 
@@ -117,7 +117,7 @@ When learning sound waves, I came across the idea that chords are composed of di
 </table>
 
 
-# 6.What's the most meaningful thing you've made?
+# 6. What's the most meaningful thing you've made?
 
 This LEGO machine can correspond one-to-one with mathematical formulas, which visualizes mathematical concepts and helps me understand them.
 
